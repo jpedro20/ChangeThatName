@@ -1,0 +1,16 @@
+{
+  "name": "ChangeThatName",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/jpedro20/ChangeThatName",
+  "keywords": [],
+  "author": "João Pereira",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^3.0.3"
+  }
+}
